@@ -7,5 +7,5 @@ CD-HIT (http://weizhong-lab.ucsd.edu/cd-hit/) is a powerful tool to significantl
 Input file: clusterfile.clstr  
 `>python cdhitparser.py -c clusterfile.clstr -v`
 - - - -
-![Python 3.8](https://img.shields.io/badge/Python-3.8-brightgreen) ![PyCharm 3.8](https://img.shields.io/badge/PyCharm-2020.3.5-yellow)
+![Python 3.8](https://img.shields.io/badge/Python-3.8-brightgreen) ![W10](https://img.shields.io/badge/Windows10-x64-blue)
 
