@@ -11,7 +11,7 @@ parser = argparse.ArgumentParser(description='CD-hit cluster output to json')
 parser.add_argument('-c', '--cluster', metavar='.clstr file', dest='cluster', type=str,
                     help='The .clstr file with cluster information.')
 group = parser.add_mutually_exclusive_group()
-group.add_argument('-v','--csv',action='store_true',help='Covert the json output to csv')
+group.add_argument('-v','--csv',action='store_true',help='Convert the json output to csv')
 args = parser.parse_args()
 
 def clstr_parser():
