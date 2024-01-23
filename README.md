@@ -6,5 +6,5 @@ CD-HIT (http://weizhong-lab.ucsd.edu/cd-hit/) is a powerful tool to significantl
 ### Example
 Input file obtained from CD-HIT:  *cluster_file.clstr*  
 
-Run the following command within windows CMD:  `>python cdhitparser.py -c cluster_file.clstr -v`
+Run the following command within windows CMD:  `$ python cdhitparser.py -c cluster_file.clstr -v`
 - - - -
